@@ -15,7 +15,7 @@ viewer.py [ -p <pico-8 executable> | -h | -c | -i | -s <season> | -d <day> | -r 
             so you already own it if you bought the bundle.
 
 
--h          print the above string
+-h          print the launch arguments
 
 
 -c          prefer viewing later games when the ingame days of two games overlap when "-s" and "-d" are used.
