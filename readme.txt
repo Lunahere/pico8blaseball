@@ -1,4 +1,6 @@
-the programs is launched using the command line
+unpack the source code into a folder and then launch the python program using the command line. the program then launches pico-8 as a subprocess of itself. requires a purchased copy of pico-8 to be installed on your device.
+
+launch arguments;
 
 viewer.py [ -p <pico-8 executable> | -h | -c | -i | -s <season> | -d <day> | -r <stream/Replay url> | -t <team nickname>]
 
