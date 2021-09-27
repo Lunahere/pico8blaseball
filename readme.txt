@@ -29,6 +29,8 @@ viewer.py [ -p <pico-8 executable> | -h | -c | -i | -s <season> | -d <day> | -r 
 -r <url>    manually set url to stream data from.
 
             *if no stream source is by using the above arguments, the program streams data from https://www.blaseball.com/ .
+            
+            *if blaseball.com is not accepting api requests, try setting the url of this launch argument to https://api.sibr.dev/corsmechanics/www.blaseball.com .
 
 
 -t <team>   set a team to follow the games of.
